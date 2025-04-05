@@ -1,0 +1,1 @@
+Public folder for static files (e.g., images, videos).
